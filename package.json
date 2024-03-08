@@ -1,0 +1,52 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.0.2",
+    "@nuxtjs/tailwindcss": "^6.6.6",
+    "@pinia/nuxt": "^0.5.1",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "@rollup/plugin-url": "^8.0.1",
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/fs-extra": "^11.0.1",
+    "@types/node": "^20.5.4",
+    "@types/sparqljs": "^3.1.10",
+    "@vite-pwa/nuxt": "^0.6.0",
+    "fs-extra": "^11.1.1",
+    "nuxt": "^3.6.5",
+    "nuxt-headlessui": "^1.1.4",
+    "pinia": "^2.1.6",
+    "prettier": "^3.0.2",
+    "prettier-plugin-tailwindcss": "^0.5.3",
+    "rollup": "^4.0.0",
+    "sass": "^1.66.1",
+    "type-fest": "^4.12.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@codemirror/autocomplete": "^6.9.0",
+    "@codemirror/commands": "^6.2.4",
+    "@codemirror/language": "^6.9.0",
+    "@codemirror/legacy-modes": "^6.3.3",
+    "@codemirror/lint": "^6.4.0",
+    "@codemirror/search": "^6.5.1",
+    "@codemirror/state": "^6.2.1",
+    "@codemirror/view": "^6.16.0",
+    "@nuxtjs/color-mode": "^3.2.0",
+    "@unhead/shared": "^1.8.11",
+    "@vueuse/math": "^10.3.0",
+    "@vueuse/nuxt": "^10.3.0",
+    "install": "^0.13.0",
+    "lz-string": "^1.5.0",
+    "sparql-formatter": "github:sparqling/sparql-formatter",
+    "sparqljs": "^3.7.1",
+    "vue3-json-viewer": "^2.2.2"
+  }
+}
