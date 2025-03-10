@@ -41,7 +41,7 @@
     "@codemirror/view": "^6.16.0",
     "@nuxtjs/color-mode": "^3.2.0",
     "@unhead/shared": "^1.8.11",
-    "@vueuse/math": "^12.0.0",
+    "@vueuse/math": "^13.0.0",
     "@vueuse/nuxt": "^12.0.0",
     "install": "^0.13.0",
     "lz-string": "^1.5.0",
