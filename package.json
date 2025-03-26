@@ -40,7 +40,7 @@
     "@codemirror/state": "^6.2.1",
     "@codemirror/view": "^6.16.0",
     "@nuxtjs/color-mode": "^3.2.0",
-    "@unhead/shared": "^1.8.11",
+    "@unhead/shared": "^2.0.1",
     "@vueuse/math": "^13.0.0",
     "@vueuse/nuxt": "^13.0.0",
     "install": "^0.13.0",
