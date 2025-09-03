@@ -20,7 +20,7 @@
     "@types/sparqljs": "^3.1.10",
     "@vite-pwa/nuxt": "^1.0.0",
     "fs-extra": "^11.1.1",
-    "nuxt": "^3.6.5",
+    "nuxt": "^4.1.0",
     "nuxt-headlessui": "^1.1.4",
     "pinia": "^3.0.0",
     "prettier": "^3.0.2",
