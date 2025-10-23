@@ -42,7 +42,7 @@
     "@nuxtjs/color-mode": "^3.2.0",
     "@unhead/shared": "^2.0.1",
     "@vueuse/math": "^14.0.0",
-    "@vueuse/nuxt": "^13.0.0",
+    "@vueuse/nuxt": "^14.0.0",
     "install": "^0.13.0",
     "lz-string": "^1.5.0",
     "sparql-formatter": "github:sparqling/sparql-formatter",
