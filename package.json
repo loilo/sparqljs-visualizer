@@ -39,7 +39,7 @@
     "@codemirror/search": "^6.5.1",
     "@codemirror/state": "^6.2.1",
     "@codemirror/view": "^6.16.0",
-    "@nuxtjs/color-mode": "^3.2.0",
+    "@nuxtjs/color-mode": "^4.0.0",
     "@unhead/shared": "^2.0.1",
     "@vueuse/math": "^14.0.0",
     "@vueuse/nuxt": "^14.0.0",
